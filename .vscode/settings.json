@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "chapter-1"
+        "chapter-1", "chapter-2"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
